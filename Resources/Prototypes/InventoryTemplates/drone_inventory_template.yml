@@ -6,5 +6,5 @@
     slotFlags: HEAD
     uiWindowPos: 1,0
     strippingWindowPos: 0,0
-    displayName: inventory-slot-head # Ru-Localization
+    displayName: inventory-slot-head #  Ru-Localization
     offset: 0, -0.45
